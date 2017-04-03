@@ -1,0 +1,4 @@
+[26-Jan-2017 17:58:05 UTC] PHP Fatal error:  Cannot redeclare class App\Http\Controllers\Representantes in /home/wsfcombr/public_html/dev/representantes/app/Http/Controllers/Api.php on line 0
+[09-Feb-2017 10:18:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/florapla/public_html/sistema/representantes/public/index.php on line 50
+[09-Feb-2017 10:18:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/florapla/public_html/sistema/representantes/public/index.php on line 50
+[09-Feb-2017 10:18:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/florapla/public_html/sistema/representantes/public/index.php on line 50
